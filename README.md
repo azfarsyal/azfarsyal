@@ -1,16 +1,17 @@
-### Hi there 👋
+👋 Hi I am Azfar Syal, a **Software Engineer** with extensive **4+ years** of experience. I have expertiese in Ruby on Rails, MERN Stack and other javascript frameworks. I have delivered many features/tasks for 10+ production level web applications.
 
-<!--
-**azfarsyal/azfarsyal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+In this Software Industry I have gained extensive in-depth experience with many tools, programming languages/frameworks and technologies, which includes but not limited to:
 
-Here are some ideas to get you started:
+- 💻 Fullstack: Ruby on Rails and MERN Stack
+- 🤖 Backend: Ruby, NodeJS and ExpressJS
+- 🎨 Frontend: Javascrip, JQuery, React JS, Next JS, Angular JS, Vue JS, HTML5, CSS3, Bootstrapand Tailwind
+- ⛓️ API: RESTful API and GraphQL
+- 🔗 Version Control: Git
+- 💾 Storage: MySQL, PostgreSQL, SQLite, Mongo DB, Firestore and Redis
+- 🔭 Management tool: JIRA
+- ☎️ Communication: Slack, Zoom, Skype and Google Meet
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**NOTE:**
+This is my personal GitHub Profile so to explore my other company specific GitHub Profiles, for which I have worked previously, redirect to the following links:
+- Sendoso: https://github.com/azfarsyalsendoso 
+- Snapraise: https://github.com/azfarsyalsnapraise
