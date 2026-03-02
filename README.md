@@ -1,4 +1,4 @@
-👋 Hi I am Azfar Syal, a **Software Engineer** with extensive **6+ years** of experience. I have expertise in Ruby on Rails, MERN Stack and other javascript frameworks. I have delivered many features/tasks for 10+ production level web applications.
+👋 Hi I am Azfar Syal, a **Software Engineer** with extensive **7+ years** of experience. I have expertise in Ruby on Rails, MERN Stack and other javascript frameworks. I have delivered many features/tasks for 10+ production level web applications.
 
 In this Software Industry I have gained extensive in-depth experience with many tools, programming languages/frameworks and technologies, which includes but not limited to:
 
